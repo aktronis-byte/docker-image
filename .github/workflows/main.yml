@@ -25,3 +25,4 @@ jobs:
           context: Foosball/
           push: true
           tags: aktronis-byte/foosball:${{ github.run_number }}
+        
