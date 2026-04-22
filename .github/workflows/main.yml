@@ -25,4 +25,4 @@ jobs:
           context: ./IS436-Classwork-Foosball/foosball
           file: ./IS436-Classwork-Foosball/foosball/Dockerfile
           push: true
-          tags: aktronis-byte/foosball:${{ github.run_number }}
+          tags: aktronis/foosball:${{ github.run_number }}
